@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+### My name is Joel and I'm a recently qualified Web Developer looking to expand my knowledge with continuous learning. 
+
 
 <!--
 **joel-anderson-24/joel-anderson-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
